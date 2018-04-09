@@ -200,3 +200,6 @@ Note: Запуск через IDEA не генерирует сертифика�
 
 * [Простой вариант](java/info/kgeorgiy/java/advanced/walk/WalkTest.java)
 * [Сложный вариант](java/info/kgeorgiy/java/advanced/walk/RecursiveWalkTest.java)
+
+
+--
